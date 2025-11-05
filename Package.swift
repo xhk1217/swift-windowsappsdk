@@ -18,7 +18,7 @@ let package = Package(
     dependencies: [
         .package(url: "https://github.com/rayman-zhao/swift-cwinrt", branch: "main"),
         .package(url: "https://github.com/rayman-zhao/swift-windowsfoundation", branch: "main"),
-        .package(url: "https://github.com/rayman-zhao/swift-uwp", branch: "main"),
+        .package(url: "https://github.com/xhk1217/swift-uwp", branch: "main"),
     ],
     targets: [
         .target(
